@@ -9,6 +9,7 @@
     <version>0.1.0-SNAPSHOT</version>
 
     <modules>
+        <module>sharding-demo-springboot</module>
         <module>sjdbc-db-read-write-sharding-springboot</module>
         <module>sjdbc-db-sharding-springboot</module>
         <module>sjdbc-db-sharding-table-read-write-range-group-springboot</module>
